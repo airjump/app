@@ -1,5 +1,16 @@
 # Mit einer App die nicht native für bestimmte Betriebssysteme erstellt wird will ich:
 
-- Einen Helferstatus darstellen
-- Die Übersicht von Fahrzeugen mit Ihrem Status
-- Kalenderfunktionen wie wir sie als Helfer brauchen
+## Product Vision
+- Helferstatus darstellen
+- Fahrzeugstatus darstellen
+- Kalenderfunktionen
+- Im Web oder auf einem "Smartphone" Tabelt darstellen
+- Einfach
+
+## Task - Board
+
+|User Stories|WIP|Testing|Done|Community|
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
