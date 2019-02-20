@@ -11,6 +11,6 @@
 
 |User Stories|WIP|Testing|Done|Community|
 |---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+|   |   |   |Linux-Dev Server aufsetzen|   |
+|   |SQLite spielen & lernen|   |   |   |
+|   |Python Script erstellen|   |   |   |
