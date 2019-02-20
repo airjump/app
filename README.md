@@ -14,3 +14,11 @@
 |   |   |   |Linux-Dev Server aufsetzen|   |
 |   |SQLite spielen & lernen|   |   |   |
 |   |Python Script erstellen|   |   |   |
+
+## Datenbank
+--Organisation
+---Helferdaten
+---Orte
+---Fahrzeuge
+---Dienste
+---Einsatz
