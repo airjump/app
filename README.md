@@ -16,9 +16,9 @@
 |   |Python Script erstellen|   |   |   |
 
 ## Datenbank
-* Organisation
--Helferdaten
----Orte
----Fahrzeuge
----Dienste
----Einsatz
+- Organisation (DB)
+- Helferdaten (Tabelle)
+- Orte (Tabelle)
+- Fahrzeuge (Tabelle)
+- Dienste (Tabelle)
+-Einsatz (Tabelle)
